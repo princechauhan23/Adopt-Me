@@ -11,11 +11,11 @@
 
 ## Screenshots
 <div>
-  <img src="https://github.com/princechauhan23/Adopt-Me/blob/master/src/screens/12.png" width=400px>
-  <img src="https://github.com/princechauhan23/Adopt-Me/blob/master/src/screens/34.png" width=400px>
-  <img src="https://github.com/princechauhan23/Adopt-Me/blob/master/src/screens/56.png" width=400px>
-  <img src="https://github.com/princechauhan23/Adopt-Me/blob/master/src/screens/78.png" width=400px>
-  <img src="https://github.com/princechauhan23/Adopt-Me/blob/master/src/screens/90.png" width=400px>
+  <img src="https://github.com/princechauhan23/Adopt-Me/blob/master/src/screens/12.png" width=600px>
+  <img src="https://github.com/princechauhan23/Adopt-Me/blob/master/src/screens/34.png" width=600px>
+  <img src="https://github.com/princechauhan23/Adopt-Me/blob/master/src/screens/56.png" width=600px>
+  <img src="https://github.com/princechauhan23/Adopt-Me/blob/master/src/screens/78.png" width=600px>
+  <img src="https://github.com/princechauhan23/Adopt-Me/blob/master/src/screens/90.png" width=600px>
 </div>
 ## Features
 1. Search Filters: A search bar that allows users to filter pets by category, breed, location.
